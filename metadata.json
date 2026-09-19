@@ -1,0 +1,6 @@
+{
+  "name": "Software Engineer Portfolio",
+  "description": "A recruiter-friendly, modern full-stack developer portfolio featuring interactive projects, skill proficiency metrics, experience timeline, and contact system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
